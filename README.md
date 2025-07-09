@@ -16,8 +16,8 @@ This project is an interactive algorithm visualizer that demonstrates how variou
 
 ### Features:
 
-- Adjustable number of bars to sort
-- Adjustable sorting speed
-- Real-time visualization of sorting process
+- Adjustable number of bars to sort.
+- Adjustable sorting speed.
+- Real-time visualization of sorting process.
 
 
